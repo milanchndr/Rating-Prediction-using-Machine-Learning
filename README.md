@@ -1,7 +1,5 @@
 # Rating-Prediction-using-Machine-Learning
 
-# Recipe Rating Prediction
-
 This project aims to predict the rating of recipe reviews based on various features such as user reputation, thumbs up/down counts, and the textual content of the review itself. The dataset used for this project is from a Kaggle competition.
 
 ## Dataset
@@ -69,7 +67,7 @@ The top three best-performing models (Logistic Regression, LightGBM, and Random 
 
 ## Results
 
-The best-performing model after hyperparameter tuning was LightGBM, achieving an accuracy of XX%, precision of XX%, and F1-score of XX%.
+The best-performing model after hyperparameter tuning was LightGBM, achieving an accuracy of 79.16%.
 
 ## Usage
 
@@ -78,7 +76,7 @@ To run the code and reproduce the results, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-repo-url.git`
 2. Install the required Python packages: `pip install -r requirements.txt`
 3. Download the dataset from the Kaggle competition and place the `train.csv` and `test.csv` files in the project directory.
-4. Open the Jupyter Notebook file (`21f2000882_notebook_t12024_(16).ipynb`) and run the cells.
+4. Open the Jupyter Notebook file (`Rating Prediction Notebook .ipynb`) and run the cells.
 
 Note: Make sure to update the file paths in the code if you place the dataset files in a different location.
 
