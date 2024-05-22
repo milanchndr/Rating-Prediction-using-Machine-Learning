@@ -1,6 +1,5 @@
 # Rating-Prediction-using-Machine-Learning
 
-```
 # Recipe Rating Prediction
 
 This project aims to predict the rating of recipe reviews based on various features such as user reputation, thumbs up/down counts, and the textual content of the review itself. The dataset used for this project is from a Kaggle competition.
@@ -96,4 +95,4 @@ Some potential areas for future improvement include:
 
 This project was completed as part of the recipe-for-rating-predict-food-ratings-using-ml. Special thanks to the IIT Madras and the Kaggle community for providing the dataset and resources.
 
-```
+
